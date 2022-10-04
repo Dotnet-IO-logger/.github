@@ -1,12 +1,27 @@
-## Hi there 👋
+# Welcome to Dotnet IO logger extension project
 
-<!--
+## Introduction
 
-**Here are some ideas to get you started:**
+As dotnet developers we face a lot of challenges every day. One of them is debugging IO operations. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This process can be time consuming (because some libs hide implementation) and it would be nice to have some tool which can provide a way how to logs and analyze IO operations in debug mode. 
+
+That's a reson why we are here!
+
+With love from dotnet developers to dotnet developers!
+
+## Goals
+
+Coming soon...
+
+## For future
+
+Coming soon...
+
+## How to contribute
+
+If you would like to help us to improve all dotnet developers live in the world please follow this [guide](/Pages/contributersGuide.md)
+
+## License
+
+Coming soon...
